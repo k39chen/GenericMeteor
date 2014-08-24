@@ -9,6 +9,10 @@ Notes
 ------------
 This project was built using the MeteorJS framework. This application is inspired by all those little moments where choosing which restaurant to go to seemed impossible.
 
+Features
+------------
+_List project features here._
+
 Usage
 ------------
 
