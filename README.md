@@ -1,18 +1,12 @@
-Randomizer
+Generic Meteor
 =======
 
-Never have trouble choosing again! [Try it now](http://randomizer.meteor.com/)!
-
-![alt='promo.jpg'](promo.jpg)
-
-Notes
-------------
-This project was built using the MeteorJS framework. This application is inspired by all those little moments where choosing which restaurant to go to seemed impossible.
+This project is solely for the purpose of acting as a base template for Meteor JS projects.
 
 Usage
 ------------
 
-To use **Randomizer** [click here](http://randomizer.meteor.com/).
+Copy the contents of this project to create a generic Meteor project.
 
 Credits
 -------------
