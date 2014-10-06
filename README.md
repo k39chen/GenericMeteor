@@ -3,6 +3,12 @@ Generic Meteor
 
 This project is solely for the purpose of acting as a base template for Meteor JS projects.
 
+Packages to add:
+- particle4dev:sass
+- mrt:jquery-ui
+- iron:router
+- natestrauser:font-awesome
+
 Features
 ------------
 _List project features here._
